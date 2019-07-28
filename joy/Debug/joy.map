@@ -1,0 +1,1858 @@
+Archive member included because of file (symbol)
+
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                              ./joy.o (Joystick::begin())
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                              ./joy.o (delay)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o) (analogRead)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o) (pinMode)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                              ./joy.o (Serial)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+                              (main)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o) (Print::write(unsigned char const*, unsigned int))
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (String::operator[](unsigned int) const)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (atof)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (dtostrf)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (ltoa)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o) (usci_isr_install)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__cxa_pure_virtual)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o) (i2c_txrx_isr)
+C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o) (i2c_sw_init)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o) (powf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (scalbnf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (__ieee754_sqrtf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__mulqi3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o) (__mulhi3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o) (__mulsi3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o) (__udivhi3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o) (__udivsi3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__fixunssfsi)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__addsf3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__mulsf3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__divsf3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (__gtsf2)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__ltsf2)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (__lesf2)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__floatsisf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__fixsfsi)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o) (__floatunsisf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strchr)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strcmp)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strncmp)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strcpy)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strncpy)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (memcpy)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (memmove)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strrchr)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (strstr)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (atol)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o) (malloc)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o) (strtol)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+                              C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o) (sprintf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o) (vuprintf)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o) (ldiv)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o) (errno)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o) (__ext_divmod32)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o) (__udivdi3)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o (_reset_vector__)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__watchdog_support)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__init_stack)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__low_level_init)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__do_copy_data)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__do_clear_bss)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__stop_progExec__)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (_endless_loop__)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+                              c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o (_unexpected_)
+c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+                              ./joy.o (__do_global_ctors)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+SMILLIS_INC         0x2               C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+SFRACT_INC          0x2               C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .text.crt0     0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .text          0x00000000        0x0 ./joy.o
+ .data          0x00000000        0x0 ./joy.o
+ .bss           0x00000000        0x0 ./joy.o
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.disableWatchDog
+                0x00000000        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.enableWatchDog
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.millis   0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.sleepSeconds
+                0x00000000       0xa4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.sleep    0x00000000       0xca C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text.suspend  0x00000000       0x26 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .text.analogFrequency
+                0x00000000       0x66 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .text.analogResolution
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .text.analogWrite
+                0x00000000      0x172 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .text.analogReadResolution
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .data.analog_res
+                0x00000000        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .bss.analog_div
+                0x00000000        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .data.analog_period
+                0x00000000        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .text.digitalWrite
+                0x00000000       0x4a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_timer
+                0x00000000       0x15 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x1c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x3e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x1e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .rodata._ZN5Print10printFloatEdh
+                0x00000000        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x10e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x00000000        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String10invalidateEv
+                0x00000000       0x1e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String12changeBufferEj
+                0x00000000       0x3e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String7reserveEj
+                0x00000000       0x32 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String4copyEPKcj
+                0x00000000       0x34 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x00000000       0x24 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String4copyEPK19__FlashStringHelperj
+                0x00000000       0x34 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x00000000       0x24 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringaSEPKc
+                0x00000000       0x28 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Edh
+                0x00000000       0x42 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Efh
+                0x00000000       0x42 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Emh
+                0x00000000       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Elh
+                0x00000000       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Ejh
+                0x00000000       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Eih
+                0x00000000       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Ehh
+                0x00000000       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x00000000       0x20 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringaSEPK19__FlashStringHelper
+                0x00000000       0x28 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2EPK19__FlashStringHelper
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEPKcj
+                0x00000000       0x40 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEPKc
+                0x00000000       0x1c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEc
+                0x00000000       0x16 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEh
+                0x00000000       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEi
+                0x00000000       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEj
+                0x00000000       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEl
+                0x00000000       0x34 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEm
+                0x00000000       0x34 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEf
+                0x00000000       0x44 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEd
+                0x00000000       0x44 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEPK19__FlashStringHelper
+                0x00000000       0x4e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000       0x1e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000       0x2c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperc
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperh
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperi
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperj
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperl
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperm
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperf
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperd
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperPK19__FlashStringHelper
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000       0x3e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String6equalsEPKc
+                0x00000000       0x36 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0xe C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000       0x10 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000       0x64 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000       0x32 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000       0x32 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0xe C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringixEj
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringixEj
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000       0x38 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000       0x48 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000       0x48 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000       0x64 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000       0x98 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0xe C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .rodata._ZNK6String9substringEjj
+                0x00000000        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x00000000       0x5a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000      0x19a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6removeEjj
+                0x00000000       0x44 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6removeEj
+                0x00000000        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String11toLowerCaseEv
+                0x00000000       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String11toUpperCaseEv
+                0x00000000       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String4trimEv
+                0x00000000       0x98 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String5toIntEv
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7toFloatEv
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .text.atof     0x00000000      0x1f6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .rodata.dtostrf
+                0x00000000        0xe C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .text.dtostrf  0x00000000       0xca C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .text.ltoa     0x00000000       0xde C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .text.itoa     0x00000000       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .text.ultoa    0x00000000       0xb2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .text.utoa     0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text._Znwj    0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text._ZdlPv   0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000        0xe C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_init_port
+                0x00000000       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_setModule
+                0x00000000        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_init
+                0x00000000       0x88 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_setAddress
+                0x00000000       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_readFrom
+                0x00000000       0xec C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_writeTo
+                0x00000000       0xec C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_transmit
+                0x00000000       0x28 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_attachSlaveRxEvent
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_attachSlaveTxEvent
+                0x00000000        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .text          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .data          0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .bss           0x00000000        0x0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_init
+                0x00000000       0x2a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_txByte
+                0x00000000       0x86 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_start
+                0x00000000       0x3c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_ack
+                0x00000000       0x26 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_rxByte
+                0x00000000       0xb0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_stop
+                0x00000000       0x38 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_write
+                0x00000000       0x58 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text.i2c_sw_read
+                0x00000000       0x5a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .text          0x00000000      0xd84 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .rodata        0x00000000       0x18 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .text          0x00000000      0x184 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .text          0x00000000      0x16e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .text.libgcc   0x00000000       0x18 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000       0x2c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .text.libgcc   0x00000000       0x22 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .text          0x00000000       0x42 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .text          0x00000000      0x32e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .text          0x00000000      0x224 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .text          0x00000000      0x150 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .text          0x00000000       0x50 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .text          0x00000000       0x50 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .text          0x00000000       0x50 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .text          0x00000000       0x50 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .text          0x00000000       0xa6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .text          0x00000000       0x90 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .rodata        0x00000000        0x8 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .text          0x00000000       0xe2 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .text          0x00000000       0x72 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .text          0x00000000      0x1de c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .text          0x00000000      0x124 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .text          0x00000000       0xa4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .rodata        0x00000000      0x100 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .text          0x00000000       0x12 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .text          0x00000000       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .text          0x00000000       0x28 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .text          0x00000000       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .text          0x00000000       0x2a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .text          0x00000000       0xfa c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .text          0x00000000       0xfa c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .text          0x00000000       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .text          0x00000000       0x56 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .text          0x00000000        0xc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .text          0x00000000      0x110 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .bss           0x00000000        0x1 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .text          0x00000000      0x1b8 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .text          0x00000000       0xbc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .bss           0x00000000        0x4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .text          0x00000000      0x836 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .rodata        0x00000000        0x7 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .text.ldiv     0x00000000       0x12 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ COMMON         0x00000000        0x2 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .text.libgcc   0x00000000       0x4c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000       0xf0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .text          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+ .data          0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+ .bss           0x00000000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sfr              0x00000000         0x00000010
+peripheral_8bit  0x00000010         0x000000f0
+peripheral_16bit 0x00000100         0x00000100
+ram              0x00000200         0x00000200         xw
+infomem          0x00001000         0x00000100
+infod            0x00001000         0x00000040
+infoc            0x00001040         0x00000040
+infob            0x00001080         0x00000040
+infoa            0x000010c0         0x00000040
+rom              0x0000c000         0x00003fe0         xr
+vectors          0x0000ffe0         0x00000020
+bsl              0x00000000         0x00000000
+ram2             0x00000000         0x00000000         xw
+ram_mirror       0x00000000         0x00000000         xw
+signature        0x00000000         0x00000000
+tinyram          0x00000000         0x00000000         xw
+usbram           0x00000000         0x00000000         xw
+far_rom          0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+LOAD ./joy.o
+START GROUP
+LOAD C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a
+LOAD C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a
+LOAD c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a
+END GROUP
+LOAD c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a
+LOAD c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a
+LOAD c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a
+LOAD c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a
+                0x00000040                PROVIDE (__info_segment_size, 0x40)
+                0x00001000                PROVIDE (__infod, 0x1000)
+                0x00001040                PROVIDE (__infoc, 0x1040)
+                0x00001080                PROVIDE (__infob, 0x1080)
+                0x000010c0                PROVIDE (__infoa, 0x10c0)
+                0x00000000                __IE1 = 0x0
+                0x00000002                __IFG1 = 0x2
+                0x00000001                __IE2 = 0x1
+                0x00000003                __IFG2 = 0x3
+                0x00000048                __ADC10DTC0 = 0x48
+                0x00000049                __ADC10DTC1 = 0x49
+                0x0000004a                __ADC10AE0 = 0x4a
+                0x000001b0                __ADC10CTL0 = 0x1b0
+                0x000001b2                __ADC10CTL1 = 0x1b2
+                0x000001b4                __ADC10MEM = 0x1b4
+                0x000001bc                __ADC10SA = 0x1bc
+                0x00000056                __DCOCTL = 0x56
+                0x00000057                __BCSCTL1 = 0x57
+                0x00000058                __BCSCTL2 = 0x58
+                0x00000053                __BCSCTL3 = 0x53
+                0x00000059                __CACTL1 = 0x59
+                0x0000005a                __CACTL2 = 0x5a
+                0x0000005b                __CAPD = 0x5b
+                0x00000128                __FCTL1 = 0x128
+                0x0000012a                __FCTL2 = 0x12a
+                0x0000012c                __FCTL3 = 0x12c
+                0x00000020                __P1IN = 0x20
+                0x00000021                __P1OUT = 0x21
+                0x00000022                __P1DIR = 0x22
+                0x00000023                __P1IFG = 0x23
+                0x00000024                __P1IES = 0x24
+                0x00000025                __P1IE = 0x25
+                0x00000026                __P1SEL = 0x26
+                0x00000041                __P1SEL2 = 0x41
+                0x00000027                __P1REN = 0x27
+                0x00000028                __P2IN = 0x28
+                0x00000029                __P2OUT = 0x29
+                0x0000002a                __P2DIR = 0x2a
+                0x0000002b                __P2IFG = 0x2b
+                0x0000002c                __P2IES = 0x2c
+                0x0000002d                __P2IE = 0x2d
+                0x0000002e                __P2SEL = 0x2e
+                0x00000042                __P2SEL2 = 0x42
+                0x0000002f                __P2REN = 0x2f
+                0x00000018                __P3IN = 0x18
+                0x00000019                __P3OUT = 0x19
+                0x0000001a                __P3DIR = 0x1a
+                0x0000001b                __P3SEL = 0x1b
+                0x00000043                __P3SEL2 = 0x43
+                0x00000010                __P3REN = 0x10
+                0x0000012e                __TA0IV = 0x12e
+                0x00000160                __TA0CTL = 0x160
+                0x00000162                __TA0CCTL0 = 0x162
+                0x00000164                __TA0CCTL1 = 0x164
+                0x00000166                __TA0CCTL2 = 0x166
+                0x00000170                __TA0R = 0x170
+                0x00000172                __TA0CCR0 = 0x172
+                0x00000174                __TA0CCR1 = 0x174
+                0x00000176                __TA0CCR2 = 0x176
+                0x0000011e                __TA1IV = 0x11e
+                0x00000180                __TA1CTL = 0x180
+                0x00000182                __TA1CCTL0 = 0x182
+                0x00000184                __TA1CCTL1 = 0x184
+                0x00000186                __TA1CCTL2 = 0x186
+                0x00000190                __TA1R = 0x190
+                0x00000192                __TA1CCR0 = 0x192
+                0x00000194                __TA1CCR1 = 0x194
+                0x00000196                __TA1CCR2 = 0x196
+                0x00000060                __UCA0CTL0 = 0x60
+                0x00000061                __UCA0CTL1 = 0x61
+                0x00000062                __UCA0BR0 = 0x62
+                0x00000063                __UCA0BR1 = 0x63
+                0x00000064                __UCA0MCTL = 0x64
+                0x00000065                __UCA0STAT = 0x65
+                0x00000066                __UCA0RXBUF = 0x66
+                0x00000067                __UCA0TXBUF = 0x67
+                0x0000005d                __UCA0ABCTL = 0x5d
+                0x0000005e                __UCA0IRTCTL = 0x5e
+                0x0000005f                __UCA0IRRCTL = 0x5f
+                0x00000068                __UCB0CTL0 = 0x68
+                0x00000069                __UCB0CTL1 = 0x69
+                0x0000006a                __UCB0BR0 = 0x6a
+                0x0000006b                __UCB0BR1 = 0x6b
+                0x0000006c                __UCB0I2CIE = 0x6c
+                0x0000006d                __UCB0STAT = 0x6d
+                0x0000006e                __UCB0RXBUF = 0x6e
+                0x0000006f                __UCB0TXBUF = 0x6f
+                0x00000118                __UCB0I2COA = 0x118
+                0x0000011a                __UCB0I2CSA = 0x11a
+                0x00000120                __WDTCTL = 0x120
+                0x000010f8                __CALDCO_16MHZ = 0x10f8
+                0x000010f9                __CALBC1_16MHZ = 0x10f9
+                0x000010fa                __CALDCO_12MHZ = 0x10fa
+                0x000010fb                __CALBC1_12MHZ = 0x10fb
+                0x000010fc                __CALDCO_8MHZ = 0x10fc
+                0x000010fd                __CALBC1_8MHZ = 0x10fd
+                0x000010fe                __CALDCO_1MHZ = 0x10fe
+                0x000010ff                __CALBC1_1MHZ = 0x10ff
+                0x000010c0                __TLV_CHECKSUM = 0x10c0
+                0x000010f6                __TLV_DCO_30_TAG = 0x10f6
+                0x000010f7                __TLV_DCO_30_LEN = 0x10f7
+                0x000010da                __TLV_ADC10_1_TAG = 0x10da
+                0x000010db                __TLV_ADC10_1_LEN = 0x10db
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.text
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.bss
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000c000      0xd16
+                0x0000c000                . = ALIGN (0x2)
+ *(.init .init.*)
+ *(.init0)
+ .init0         0x0000c000        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+                0x0000c000                _reset_vector__
+ *(.init1)
+ .init1         0x0000c000        0xc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+                0x0000c000                __watchdog_support
+ *(.init2)
+ .init2         0x0000c00c        0x4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+                0x0000c00c                __init_stack
+ *(.init3)
+ .init3         0x0000c010        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+                0x0000c010                __low_level_init
+ *(.init4)
+ .init4         0x0000c010       0x18 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+                0x0000c010                __do_copy_data
+ .init4         0x0000c028       0x16 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+                0x0000c028                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ .init6         0x0000c03e       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+                0x0000c03e                __do_global_ctors
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000c052       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+                0x0000c052                main
+ *(.fini9)
+ .fini9         0x0000c06c        0x0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+                0x0000c06c                __stop_progExec__
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000c06c        0x6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+                0x0000c06c                _endless_loop__
+ *(.fini .fini.*)
+                0x0000c072                . = ALIGN (0x2)
+                0x0000c072                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000c072        0x2 ./joy.o
+ .ctors         0x0000c074        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c076                __ctors_end = .
+                0x0000c076                __dtors_start = .
+ *(.dtors)
+                0x0000c076                __dtors_end = .
+                0x0000c076                . = ALIGN (0x2)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x0000c076        0x4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+                0x0000c076                __isr_14
+                0x0000c076                __isr_4
+                0x0000c076                __isr_11
+                0x0000c076                __isr_2
+                0x0000c076                __isr_0
+                0x0000c076                __isr_8
+                0x0000c076                __isr_3
+                0x0000c076                __isr_12
+                0x0000c076                __isr_13
+                0x0000c076                __isr_9
+                0x0000c076                __isr_1
+ .text.setup    0x0000c07a       0x24 ./joy.o
+                0x0000c07a                setup
+ .text.loop     0x0000c09e       0xf2 ./joy.o
+                0x0000c09e                loop
+ .text.startup._GLOBAL__sub_I_joy
+                0x0000c190       0x1a ./joy.o
+ .text._ZN8JoystickC2Eiiii
+                0x0000c1aa       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c1aa                Joystick::Joystick(int, int, int, int)
+                0x0000c1aa                Joystick::Joystick(int, int, int, int)
+ .text._ZN8Joystick5beginEv
+                0x0000c1be        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c1be                Joystick::begin()
+ .text._ZN8Joystick5readXEv
+                0x0000c1ca        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c1ca                Joystick::readX()
+ .text._ZN8Joystick5readYEv
+                0x0000c1d2        0xa C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c1d2                Joystick::readY()
+ .text._ZN8Joystick13readInvertedXEv
+                0x0000c1dc       0x1c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c1dc                Joystick::readInvertedX()
+ .text._ZN8Joystick13readInvertedYEv
+                0x0000c1f8       0x1e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c1f8                Joystick::readInvertedY()
+ .text._ZN8Joystick14readPushButtonEv
+                0x0000c216        0xa C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                0x0000c216                Joystick::readPushButton()
+ .text.enableXtal
+                0x0000c220       0x42 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c220                enableXtal
+ .text.enableWatchDogIntervalMode
+                0x0000c262        0xc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c262                enableWatchDogIntervalMode
+ .text.initClocks
+                0x0000c26e       0x1c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c26e                initClocks
+ .text.init     0x0000c28a       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c28a                init
+ .text.micros   0x0000c29c       0x24 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c29c                micros
+ .text.delay    0x0000c2c0       0x48 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c2c0                delay
+ .text.watchdog_isr
+                0x0000c308       0x82 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c308                __isr_10
+                0x0000c308                watchdog_isr
+ .text.analogRead
+                0x0000c38a       0xe4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+                0x0000c38a                analogRead
+ .text.ADC10_ISR
+                0x0000c46e        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+                0x0000c46e                __isr_5
+                0x0000c46e                ADC10_ISR
+ .text.pinMode  0x0000c476       0x7a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c476                pinMode
+ .text.pinMode_int
+                0x0000c4f0       0xa4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c4f0                pinMode_int
+ .text.digitalRead
+                0x0000c594       0x3e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c594                digitalRead
+ .text._ZN14HardwareSerial9availableEv
+                0x0000c5d2       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c5d2                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x0000c5e4       0x1e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c5e4                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x0000c602       0x2c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c602                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x0000c62e       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c62e                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x0000c640       0x3c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c640                HardwareSerial::write(unsigned char)
+ .text._Z11serialEventv
+                0x0000c67c        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c67c                serialEvent()
+ .text._Z14serialEventRunv
+                0x0000c67e       0x12 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c67e                serialEventRun()
+ .text._ZN14HardwareSerial5beginEm
+                0x0000c690      0x128 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c690                HardwareSerial::begin(unsigned long)
+ .text.uart_rx_isr
+                0x0000c7b8       0x28 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c7b8                uart_rx_isr
+ .text.uart_tx_isr
+                0x0000c7e0       0x3c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c7e0                uart_tx_isr
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x0000c81c       0x44 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x0000c860       0x2e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c860                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5printEPKc
+                0x0000c88e       0x16 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c88e                Print::print(char const*)
+ .text._ZN5Print5printEc
+                0x0000c8a4        0x6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c8a4                Print::print(char)
+ .text._ZN5Print7printlnEv
+                0x0000c8aa       0x22 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c8aa                Print::println()
+ .text._ZN5Print7printlnEPKc
+                0x0000c8cc       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c8cc                Print::println(char const*)
+ .text._ZN5Print11printNumberEmh
+                0x0000c8e6       0x98 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c8e6                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEli
+                0x0000c97e       0x64 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c97e                Print::print(long, int)
+ .text._ZN5Print5printEii
+                0x0000c9e2       0x18 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                0x0000c9e2                Print::print(int, int)
+ .text.usci_isr_install
+                0x0000c9fa        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                0x0000c9fa                usci_isr_install
+ .text.USCIAB0TX_ISR
+                0x0000c9fc       0x5a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                0x0000c9fc                USCIAB0TX_ISR
+                0x0000c9fc                __isr_6
+ .text.USCIAB0RX_ISR
+                0x0000ca56       0x4c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                0x0000ca56                USCIAB0RX_ISR
+                0x0000ca56                __isr_7
+ .text.i2c_txrx_isr
+                0x0000caa2      0x144 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+                0x0000caa2                i2c_txrx_isr
+ .text.i2c_state_isr
+                0x0000cbe6       0xd8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+                0x0000cbe6                i2c_state_isr
+ .text.libgcc   0x0000ccbe       0x16 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+                0x0000ccbe                __mulqi3
+ .text.libgcc   0x0000ccd4       0x40 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+                0x0000ccd4                __ext_udivmod32
+                0x0000ccd4                __udivsi3
+                0x0000cd0a                __umodsi3
+ .text.crt0     0x0000cd14        0x2 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+                0x0000cd14                _unexpected_
+                0x0000cd16                . = ALIGN (0x2)
+
+.rodata         0x0000cd16      0x108
+                0x0000cd16                . = ALIGN (0x2)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.setup  0x0000cd16       0x1e ./joy.o
+ .rodata.loop   0x0000cd34       0x2b ./joy.o
+ *fill*         0x0000cd5f        0x1 00
+ .rodata.digital_pin_to_analog_in
+                0x0000cd60       0x54 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cd60                digital_pin_to_analog_in
+ .rodata.digital_pin_to_bit_mask
+                0x0000cdb4       0x15 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cdb4                digital_pin_to_bit_mask
+ .rodata.digital_pin_to_port
+                0x0000cdc9       0x15 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cdc9                digital_pin_to_port
+ .rodata.port_to_sel2
+                0x0000cdde        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cdde                port_to_sel2
+ .rodata.port_to_sel0
+                0x0000cde6        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cde6                port_to_sel0
+ .rodata.port_to_ren
+                0x0000cdee        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cdee                port_to_ren
+ .rodata.port_to_dir
+                0x0000cdf6        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cdf6                port_to_dir
+ .rodata.port_to_output
+                0x0000cdfe        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cdfe                port_to_output
+ .rodata.port_to_input
+                0x0000ce06        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000ce06                port_to_input
+ .rodata._ZTV14HardwareSerial
+                0x0000ce0e       0x10 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000ce0e                vtable for HardwareSerial
+                0x0000ce1e                . = ALIGN (0x2)
+                0x0000ce1e                _etext = .
+
+.data           0x00000200        0x4 load address 0x0000ce1e
+                0x00000200                . = ALIGN (0x2)
+                0x00000200                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data._readResolution
+                0x00000200        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .data.I2C_baseAddress
+                0x00000202        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+                0x00000202                I2C_baseAddress
+                0x00000204                . = ALIGN (0x2)
+                0x00000204                _edata = .
+                0x0000ce1e                PROVIDE (__data_load_start, LOADADDR (.data))
+                0x00000004                PROVIDE (__data_size, SIZEOF (.data))
+
+.bss            0x00000204       0x9c load address 0x0000ce22
+                0x00000204                PROVIDE (__bss_start, .)
+ *(.bss .bss.*)
+ .bss.joy       0x00000204        0x8 ./joy.o
+                0x00000204                joy
+ .bss.vlo_freq  0x0000020c        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020c                vlo_freq
+ .bss.stay_asleep
+                0x0000020e        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020e                stay_asleep
+ .bss.sleeping  0x0000020f        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020f                sleeping
+ .bss.wdt_fract
+                0x00000210        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x00000210                wdt_fract
+ .bss.wdt_millis
+                0x00000212        0x4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x00000212                wdt_millis
+ .bss.wdt_overflow_count
+                0x00000216        0x4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x00000216                wdt_overflow_count
+ .bss.analog_reference
+                0x0000021a        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+                0x0000021a                analog_reference
+ .bss.Serial    0x0000021c       0x1a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000021c                Serial
+ .bss.tx_buffer
+                0x00000236       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x00000236                tx_buffer
+ .bss.rx_buffer
+                0x0000024a       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000024a                rx_buffer
+ .bss.still_asleep
+                0x0000025e        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .bss.twi_error
+                0x0000025f        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_rxBufferIndex
+                0x00000260        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_txBufferLength
+                0x00000261        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_txBufferIndex
+                0x00000262        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_masterBufferIndex
+                0x00000263        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_inRepStart
+                0x00000264        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_sendStop
+                0x00000265        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_state
+                0x00000266        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_masterBufferLength
+                0x00000267        0x1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_masterBuffer
+                0x00000268       0x10 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_txBuffer
+                0x00000278       0x10 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_onSlaveReceive
+                0x00000288        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_onSlaveTransmit
+                0x0000028a        0x2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_rxBuffer
+                0x0000028c       0x10 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ *(COMMON)
+ COMMON         0x0000029c        0x4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000029c                SMILLIS_INC
+                0x0000029e                SFRACT_INC
+                0x000002a0                . = ALIGN (0x2)
+                0x000002a0                PROVIDE (__bss_end, .)
+                0x0000009c                PROVIDE (__bss_size, SIZEOF (.bss))
+
+.noinit         0x000002a0        0x2 load address 0x0000ce22
+                0x000002a0                PROVIDE (__noinit_start, .)
+ *(.noinit .noinit.*)
+ .noinit.crt0   0x000002a0        0x2 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+                0x000002a0                __wdt_clear_value
+                0x000002a2                . = ALIGN (0x2)
+                0x000002a2                PROVIDE (__noinit_end, .)
+                0x000002a2                . = ALIGN (0x2)
+                0x000002a2                _end = .
+
+.infomem        0x00001000        0x0
+ *(.infomem)
+                0x00001000                . = ALIGN (0x2)
+ *(.infomem.*)
+
+.infomemnobits  0x00001000        0x0
+ *(.infomemnobits)
+                0x00001000                . = ALIGN (0x2)
+ *(.infomemnobits.*)
+
+.infoa
+ *(.infoa .infoa.*)
+
+.infob
+ *(.infob .infob.*)
+
+.infoc
+ *(.infoc .infoc.*)
+
+.infod
+ *(.infod .infod.*)
+
+.vectors        0x0000ffe0       0x20
+                0x0000ffe0                PROVIDE (__vectors_start, .)
+ *(.vectors*)
+ .vectors       0x0000ffe0       0x20 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+                0x0000ffe0                __ivtbl_16
+                0x00010000                _vectors_end = .
+
+.fartext        0x00000000        0x0
+                0x00000000                . = ALIGN (0x2)
+ *(.fartext)
+                0x00000000                . = ALIGN (0x2)
+ *(.fartext.*)
+                0x00000000                _efartext = .
+
+.profiler
+ *(.profiler)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x778
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x1c ./joy.o
+ .debug_aranges
+                0x0000001c       0x2c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_aranges
+                0x00000048       0x48 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_aranges
+                0x00000090       0x2c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_aranges
+                0x000000bc       0x20 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_aranges
+                0x000000dc       0x44 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000120       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .debug_aranges
+                0x00000134       0x70 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_aranges
+                0x000001a4      0x144 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_aranges
+                0x000002e8       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_aranges
+                0x000002fc       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_aranges
+                0x00000310       0x20 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_aranges
+                0x00000330       0x1c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_aranges
+                0x0000034c       0x28 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_aranges
+                0x00000374       0x3c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_aranges
+                0x000003b0       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_aranges
+                0x000003e0       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_aranges
+                0x000003f4       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_aranges
+                0x00000408       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_aranges
+                0x0000041c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_aranges
+                0x00000430       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .debug_aranges
+                0x00000444       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x00000458       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_aranges
+                0x0000046c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_aranges
+                0x00000480       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000494       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x000004a8       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x000004bc       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x000004d0       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000004e4       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000004f8       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x0000050c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_aranges
+                0x00000520       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000534       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000548       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x0000055c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000570       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000584       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000598       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_aranges
+                0x000005ac       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_aranges
+                0x000005c0       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_aranges
+                0x000005d4       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_aranges
+                0x000005e8       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_aranges
+                0x000005fc       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_aranges
+                0x00000610       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_aranges
+                0x00000624       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_aranges
+                0x00000638       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_aranges
+                0x0000064c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_aranges
+                0x00000660       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_aranges
+                0x00000674       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_aranges
+                0x00000688       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_aranges
+                0x0000069c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_aranges
+                0x000006b0       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_aranges
+                0x000006c4       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_aranges
+                0x000006d8       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_aranges
+                0x000006ec       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_aranges
+                0x00000700       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_aranges
+                0x00000714       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_aranges
+                0x00000728       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_aranges
+                0x0000073c       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_aranges
+                0x00000750       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_aranges
+                0x00000764       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xe326
+ *(.debug_info)
+ .debug_info    0x00000000      0x457 ./joy.o
+ .debug_info    0x00000457      0x539 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_info    0x00000990      0x5f7 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_info    0x00000f87      0x7ae C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_info    0x00001735      0x8b8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_info    0x00001fed     0x1ae5 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_info    0x00003ad2      0x277 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .debug_info    0x00003d49     0x1e3a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_info    0x00005b83     0x2a47 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_info    0x000085ca       0xd8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_info    0x000086a2      0x14d C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_info    0x000087ef      0x221 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_info    0x00008a10      0x31a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_info    0x00008d2a      0x140 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_info    0x00008e6a      0x68b C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_info    0x000094f5      0x428 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_info    0x0000991d      0x5ea c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_info    0x00009f07      0x1e4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_info    0x0000a0eb      0x208 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_info    0x0000a2f3       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_info    0x0000a380       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .debug_info    0x0000a40d       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_info    0x0000a49a       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_info    0x0000a527       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_info    0x0000a5b4       0xb5 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x0000a669      0x425 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000aa8e      0x3c9 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_info    0x0000ae57      0x35c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_info    0x0000b1b3      0x26e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000b421      0x26e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_info    0x0000b68f      0x26e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000b8fd      0x26e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_info    0x0000bb6b      0x20b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_info    0x0000bd76      0x289 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_info    0x0000bfff      0x144 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_info    0x0000c143      0x204 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000c347      0x109 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_info    0x0000c450      0x2b1 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_info    0x0000c701      0x23e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_info    0x0000c93f      0x1d5 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x0000cb14       0xa0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_info    0x0000cbb4       0xa7 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_info    0x0000cc5b       0xa4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_info    0x0000ccff       0xbb c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_info    0x0000cdba       0xb6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_info    0x0000ce70       0xe1 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_info    0x0000cf51      0x113 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_info    0x0000d064      0x113 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_info    0x0000d177       0xb7 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_info    0x0000d22e       0xe0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_info    0x0000d30e       0x95 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_info    0x0000d3a3      0x151 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_info    0x0000d4f4      0x1d7 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_info    0x0000d6cb      0x277 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_info    0x0000d942      0x565 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_info    0x0000dea7       0x39 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .debug_info    0x0000dee0       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_info    0x0000df6d       0x8d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_info    0x0000dffa       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_info    0x0000e06e       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_info    0x0000e0e2       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_info    0x0000e156       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_info    0x0000e1ca       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_info    0x0000e23e       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_info    0x0000e2b2       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x3fab
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1ad ./joy.o
+ .debug_abbrev  0x000001ad      0x1c4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_abbrev  0x00000371      0x221 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_abbrev  0x00000592      0x227 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_abbrev  0x000007b9      0x15d C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_abbrev  0x00000916      0x46b C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_abbrev  0x00000d81       0x91 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .debug_abbrev  0x00000e12      0x37c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_abbrev  0x0000118e      0x38f C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_abbrev  0x0000151d       0x85 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_abbrev  0x000015a2       0xeb C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_abbrev  0x0000168d       0xaf C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_abbrev  0x0000173c      0x104 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_abbrev  0x00001840       0xee C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_abbrev  0x0000192e      0x1e1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_abbrev  0x00001b0f       0xfa C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_abbrev  0x00001c09      0x140 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_abbrev  0x00001d49       0xf4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_abbrev  0x00001e3d      0x14a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_abbrev  0x00001f87       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_abbrev  0x00001f9b       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .debug_abbrev  0x00001faf       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x00001fc3       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_abbrev  0x00001fd7       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_abbrev  0x00001feb       0x5d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x00002048      0x1ab c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x000021f3      0x1d9 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x000023cc      0x1c4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00002590      0x151 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000026e1      0x151 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00002832      0x151 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00002983      0x151 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_abbrev  0x00002ad4      0x164 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00002c38      0x160 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00002d98       0xba c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00002e52      0x173 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00002fc5       0xac c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00003071      0x192 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00003203      0x15a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x0000335d      0x10b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00003468       0x61 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_abbrev  0x000034c9       0x6f c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_abbrev  0x00003538       0x60 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_abbrev  0x00003598       0x7c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_abbrev  0x00003614       0x7e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_abbrev  0x00003692       0x94 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_abbrev  0x00003726       0x97 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_abbrev  0x000037bd       0x97 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_abbrev  0x00003854       0x7e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_abbrev  0x000038d2       0x8b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_abbrev  0x0000395d       0x60 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_abbrev  0x000039bd      0x104 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_abbrev  0x00003ac1      0x112 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_abbrev  0x00003bd3      0x105 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_abbrev  0x00003cd8      0x1ef c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_abbrev  0x00003ec7       0x30 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .debug_abbrev  0x00003ef7       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_abbrev  0x00003f0b       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_abbrev  0x00003f1f       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_abbrev  0x00003f33       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_abbrev  0x00003f47       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_abbrev  0x00003f5b       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_abbrev  0x00003f6f       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_abbrev  0x00003f83       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_abbrev  0x00003f97       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+.debug_line     0x00000000     0x42d6
+ *(.debug_line)
+ .debug_line    0x00000000      0x1f3 ./joy.o
+ .debug_line    0x000001f3      0x1bc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_line    0x000003af      0x2a5 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_line    0x00000654      0x222 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_line    0x00000876      0x1d8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_line    0x00000a4e      0x2fc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_line    0x00000d4a      0x13d C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .debug_line    0x00000e87      0x3a2 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_line    0x00001229      0x7c1 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_line    0x000019ea       0xcb C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_line    0x00001ab5       0xff C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_line    0x00001bb4       0xe6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_line    0x00001c9a      0x19e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_line    0x00001e38      0x118 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_line    0x00001f50      0x2b3 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_line    0x00002203      0x204 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_line    0x00002407      0x1c6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_line    0x000025cd       0x97 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_line    0x00002664       0xb7 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_line    0x0000271b       0x73 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_line    0x0000278e       0x74 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulhi3.o)
+ .debug_line    0x00002802       0x7e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_line    0x00002880       0x77 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_line    0x000028f7       0x86 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_line    0x0000297d       0x6f c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000029ec      0x117 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00002b03      0x10f c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_line    0x00002c12       0xd1 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_line    0x00002ce3       0x89 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_line    0x00002d6c       0x89 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_line    0x00002df5       0x89 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_line    0x00002e7e       0x89 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_line    0x00002f07       0xa1 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00002fa8       0x97 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_line    0x0000303f       0x6c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000030ab       0x9e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00003149       0x99 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_line    0x000031e2       0xda c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_line    0x000032bc       0xb5 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00003371       0xc0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x00003431       0x5b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_line    0x0000348c       0x44 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_line    0x000034d0       0x49 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_line    0x00003519       0x82 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_line    0x0000359b       0x4d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_line    0x000035e8       0x85 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_line    0x0000366d       0xf6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_line    0x00003763       0xf6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_line    0x00003859       0x47 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_line    0x000038a0       0x86 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_line    0x00003926       0x3d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_line    0x00003963       0xce c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_line    0x00003a31      0x10b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_line    0x00003b3c       0xa9 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_line    0x00003be5      0x2df c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_line    0x00003ec4       0x31 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .debug_line    0x00003ef5       0x8b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_line    0x00003f80       0xcc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_line    0x0000404c       0x5c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_line    0x000040a8       0x5a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_line    0x00004102       0x60 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_line    0x00004162       0x60 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_line    0x000041c2       0x5b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_line    0x0000421d       0x5a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_line    0x00004277       0x5f c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+.debug_frame    0x00000000     0x1afe
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x4c ./joy.o
+ .debug_frame   0x0000004c       0x7a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_frame   0x000000c6      0x154 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_frame   0x0000021a       0x8c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_frame   0x000002a6       0x94 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_frame   0x0000033a       0xe6 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_frame   0x00000420       0x1e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .debug_frame   0x0000043e      0x32a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_frame   0x00000768      0x7dc C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_frame   0x00000f44       0x6e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_frame   0x00000fb2       0x82 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_frame   0x00001034       0xec C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_frame   0x00001120       0x7e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_frame   0x0000119e       0x5a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_frame   0x000011f8       0xe8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_frame   0x000012e0      0x10e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_frame   0x000013ee       0x56 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_frame   0x00001444       0x44 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_frame   0x00001488       0x62 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_frame   0x000014ea       0x28 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00001512       0x6a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x0000157c       0x4a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_frame   0x000015c6       0x3a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_frame   0x00001600       0x22 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00001622       0x22 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00001644       0x22 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00001666       0x22 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_frame   0x00001688       0x2c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x000016b4       0x22 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000016d6       0x36 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x0000170c       0x2e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000173a       0x38 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00001772       0x28 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x0000179a       0x24 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_frame   0x000017be       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_frame   0x000017dc       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_frame   0x000017fa       0x24 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_frame   0x0000181e       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_frame   0x0000183c       0x24 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_frame   0x00001860       0x38 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_frame   0x00001898       0x38 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_frame   0x000018d0       0x24 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_frame   0x000018f4       0x38 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_frame   0x0000192c       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_frame   0x0000194a       0x52 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_frame   0x0000199c       0x4a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_frame   0x000019e6       0x68 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_frame   0x00001a4e       0xb0 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+
+.debug_str      0x00000000     0x2df0
+ *(.debug_str)
+ .debug_str     0x00000000      0x30c ./joy.o
+                                0x373 (size before relaxing)
+ .debug_str     0x0000030c       0xa0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+                                0x359 (size before relaxing)
+ .debug_str     0x000003ac      0x1f9 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+                                0x3c6 (size before relaxing)
+ .debug_str     0x000005a5      0x4c8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+                                0x702 (size before relaxing)
+ .debug_str     0x00000a6d      0x167 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+                                0x687 (size before relaxing)
+ .debug_str     0x00000bd4      0xdfd C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                               0x10bb (size before relaxing)
+ .debug_str     0x000019d1       0x48 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+                                0x239 (size before relaxing)
+ .debug_str     0x00001a19      0x3d9 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+                                0xea8 (size before relaxing)
+ .debug_str     0x00001df2      0x243 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+                                0xc40 (size before relaxing)
+ .debug_str     0x00002035       0x5d C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+                                 0xc0 (size before relaxing)
+ .debug_str     0x00002092       0x69 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+                                0x1ad (size before relaxing)
+ .debug_str     0x000020fb       0x57 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+                                0x12c (size before relaxing)
+ .debug_str     0x00002152       0xb0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                                0x274 (size before relaxing)
+ .debug_str     0x00002202       0xa4 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+                                0x18d (size before relaxing)
+ .debug_str     0x000022a6      0x25a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+                                0x494 (size before relaxing)
+ .debug_str     0x00002500       0xdd C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+                                0x28c (size before relaxing)
+ .debug_str     0x000025dd       0xcc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+                                0x197 (size before relaxing)
+ .debug_str     0x000026a9       0x2f c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+                                0x15a (size before relaxing)
+ .debug_str     0x000026d8       0x26 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x000026fe       0x86 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+                                0x13e (size before relaxing)
+ .debug_str     0x00002784      0x138 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+                                0x238 (size before relaxing)
+ .debug_str     0x000028bc       0x27 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+                                0x1f1 (size before relaxing)
+ .debug_str     0x000028e3       0x35 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+                                0x1fa (size before relaxing)
+ .debug_str     0x00002918        0x8 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002920        0x8 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002928        0x8 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002930        0x8 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002938       0x27 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+                                0x1ae (size before relaxing)
+ .debug_str     0x0000295f        0xa c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000000      0x16a c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00002969        0xe c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+                                0x1aa (size before relaxing)
+ .debug_str     0x00002977       0x17 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+                                0x14a (size before relaxing)
+ .debug_str     0x0000298e       0x10 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+                                0x1c7 (size before relaxing)
+ .debug_str     0x0000299e        0xb c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+                                0x1a9 (size before relaxing)
+ .debug_str     0x000029a9       0x10 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+                                0x18d (size before relaxing)
+ .debug_str     0x00000000      0x12d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_str     0x000029b9       0x19 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+                                 0xfd (size before relaxing)
+ .debug_str     0x000029d2       0x19 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+                                 0xfd (size before relaxing)
+ .debug_str     0x000029eb       0x1b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+                                0x106 (size before relaxing)
+ .debug_str     0x00002a06       0x1e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+                                0x107 (size before relaxing)
+ .debug_str     0x00002a24       0x1b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+                                0x106 (size before relaxing)
+ .debug_str     0x00002a3f       0x28 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+                                0x11f (size before relaxing)
+ .debug_str     0x00002a67       0x1b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+                                0x121 (size before relaxing)
+ .debug_str     0x00002a82       0x1b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+                                0x104 (size before relaxing)
+ .debug_str     0x00002a9d       0x19 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+                                0x109 (size before relaxing)
+ .debug_str     0x00002ab6       0x15 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+                                 0xf9 (size before relaxing)
+ .debug_str     0x00002acb       0x55 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+                                0x145 (size before relaxing)
+ .debug_str     0x00002b20       0x47 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+                                0x138 (size before relaxing)
+ .debug_str     0x00002b67       0x85 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+                                0x198 (size before relaxing)
+ .debug_str     0x00002bec      0x1f3 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+                                0x37e (size before relaxing)
+ .debug_str     0x00002ddf       0x11 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+                                 0x7c (size before relaxing)
+
+.debug_loc      0x00000000     0x4738
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x58 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_loc     0x00000058      0x10b C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_loc     0x00000163      0x106 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_loc     0x00000269      0x211 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_loc     0x0000047a      0x11e C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_loc     0x00000598      0x6dd C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_loc     0x00000c75      0xeb0 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_loc     0x00001b25      0x129 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_loc     0x00001c4e       0x52 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_loc     0x00001ca0      0x22a C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_loc     0x00001eca       0x24 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_loc     0x00001eee       0x21 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_loc     0x00001f0f       0xdb C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_loc     0x00001fea      0x14b C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_loc     0x00002135      0x6d7 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_loc     0x0000280c      0x16d c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_loc     0x00002979      0x1b4 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_loc     0x00002b2d       0x44 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00002b71      0x2ca c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x00002e3b      0x23c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00003077      0x110 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_loc     0x00003187       0x3c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_loc     0x000031c3       0x3c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000031ff       0x3c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_loc     0x0000323b       0x3c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_loc     0x00003277       0xa2 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00003319       0x3c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00003355       0x6c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000033c1       0x80 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00003441      0x181 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000035c2       0x83 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00003645       0x5b c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_loc     0x000036a0        0xb c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_loc     0x000036ab       0x24 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_loc     0x000036cf       0x38 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_loc     0x00003707       0x12 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_loc     0x00003719       0x45 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_loc     0x0000375e      0x1e9 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_loc     0x00003947      0x1e9 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_loc     0x00003b30       0x39 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_loc     0x00003b69       0xa9 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_loc     0x00003c12        0xb c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_loc     0x00003c1d      0x12e c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_loc     0x00003d4b      0x1f6 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_loc     0x00003f41       0xeb c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_loc     0x0000402c      0x70c c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x3d4
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 ./joy.o
+ .debug_ranges  0x00000010       0x20 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_Joystick-master/Debug\libmsp430_MSP-EXP430G2553LP_Joystick-master.a(Joystick.o)
+ .debug_ranges  0x00000030       0x3c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_ranges  0x0000006c       0x20 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_analog.o)
+ .debug_ranges  0x0000008c       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_ranges  0x000000a0       0x38 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_ranges  0x000000d8        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(main.o)
+ .debug_ranges  0x000000e0       0x70 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(Print.o)
+ .debug_ranges  0x00000150      0x150 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(WString.o)
+ .debug_ranges  0x000002a0        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(atof.o)
+ .debug_ranges  0x000002a8        0x8 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_ranges  0x000002b0       0x14 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_ranges  0x000002c4       0x10 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_ranges  0x000002d4       0x1c C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(new.o)
+ .debug_ranges  0x000002f0       0x30 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi.o)
+ .debug_ranges  0x00000320       0x24 C:/Users/Jimmy/Google Drive/School/Courses/Lab2/msp430_MSP-EXP430G2553LP_core/Debug\libmsp430_MSP-EXP430G2553LP_core.a(twi_sw.o)
+ .debug_ranges  0x00000344       0x14 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_ranges  0x00000358       0x28 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_ranges  0x00000380       0x24 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_ranges  0x000003a4        0xc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_ranges  0x000003b0        0xc c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_ranges  0x000003bc       0x18 c:/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+                0x00000400                PROVIDE (__stack, (ORIGIN (ram) + 0x200))
+                0x0000ce1e                PROVIDE (__data_start_rom, _etext)
+                0x0000ce22                PROVIDE (__data_end_rom, (_etext + SIZEOF (.data)))
+OUTPUT(joy.out elf32-msp430)
