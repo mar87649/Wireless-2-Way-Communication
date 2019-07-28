@@ -1,0 +1,1 @@
+"./IS_SYSTEM_2_SEND.o" -Wl,--start-group -lmsp430_MSP-EXP430G2553LP_IRremote -lmsp430_MSP-EXP430G2553LP_core -lmsp430_MSP-EXP430G2553LP_Joystick-master -lm -Wl,--end-group 
